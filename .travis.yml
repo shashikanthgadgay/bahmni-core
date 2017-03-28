@@ -1,0 +1,11 @@
+language: java
+jdk:
+ - oraclejdk8
+script: mvn clean install --PIT
+branches:
+  only:
+    - master
+notifications:
+  email: false
+sudo: false
+
