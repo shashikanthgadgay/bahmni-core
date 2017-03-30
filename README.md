@@ -1,5 +1,7 @@
 # OpenMRS module bahmnicore
 
+[![Build Status](https://travis-ci.org/shashikanthgadgay/bahmni-core.svg?branch=master)](https://travis-ci.org/shashikanthgadgay/bahmni-core)
+
 This module provides necessary services for running Bahmni
 
 ## Build
